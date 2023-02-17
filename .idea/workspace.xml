@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c7ecf05-4f2c-4de6-8d3b-fe19503eb46e" name="Changes" comment="Решение Задачи №6_Операторы&#10;Инструкция&#10;Напишите программу конвертер физических величин:&#10;1. Пользователю предлагается на выбор ввести массу или расстояние. Пример:&#10;&gt; Выберите что переводить: 1 - масса, 2 - расстояние&#10;&gt; 2&#10;&#10;2. Пользователю предлагается выбрать единицу измерения. Пример:&#10;&gt; Выберите единицу измерения: 1 - метр, 2 - миля, 3 - ярд, 4 - фут&#10;&gt; 1&#10;&#10;3. Пользователю предлагается ввести количество выбранных единиц:&#10;&gt; Введите число&#10;&gt; 10&#10;&gt; Результат:&#10;&gt; Метры: 10&#10;&gt; Мили: 0.006&#10;&gt; Ярды: 10.94&#10;&gt; Футы: 32.81&#10;Выполненное задания нужно залить в гит и оставить ссылку в поле &quot;Ответ&quot; под за-&#10;данием к курсу. Задание автоматически уйдет на оценку преподавателю.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6_Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrBLLBOmhH84HrnfJiOfFZQPEN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task6_Operators" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7ecf05-4f2c-4de6-8d3b-fe19503eb46e" name="Changes" comment="" />
+      <created>1676619264370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676619264370</updated>
+      <workItem from="1676619266028" duration="43000" />
+      <workItem from="1676619325703" duration="22000" />
+      <workItem from="1676619379617" duration="11093000" />
+      <workItem from="1676631405890" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение Задачи №6_Операторы&#10;Инструкция&#10;Напишите программу конвертер физических величин:&#10;1. Пользователю предлагается на выбор ввести массу или расстояние. Пример:&#10;&gt; Выберите что переводить: 1 - масса, 2 - расстояние&#10;&gt; 2&#10;&#10;2. Пользователю предлагается выбрать единицу измерения. Пример:&#10;&gt; Выберите единицу измерения: 1 - метр, 2 - миля, 3 - ярд, 4 - фут&#10;&gt; 1&#10;&#10;3. Пользователю предлагается ввести количество выбранных единиц:&#10;&gt; Введите число&#10;&gt; 10&#10;&gt; Результат:&#10;&gt; Метры: 10&#10;&gt; Мили: 0.006&#10;&gt; Ярды: 10.94&#10;&gt; Футы: 32.81&#10;Выполненное задания нужно залить в гит и оставить ссылку в поле &quot;Ответ&quot; под за-&#10;данием к курсу. Задание автоматически уйдет на оценку преподавателю." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение Задачи №6_Операторы&#10;Инструкция&#10;Напишите программу конвертер физических величин:&#10;1. Пользователю предлагается на выбор ввести массу или расстояние. Пример:&#10;&gt; Выберите что переводить: 1 - масса, 2 - расстояние&#10;&gt; 2&#10;&#10;2. Пользователю предлагается выбрать единицу измерения. Пример:&#10;&gt; Выберите единицу измерения: 1 - метр, 2 - миля, 3 - ярд, 4 - фут&#10;&gt; 1&#10;&#10;3. Пользователю предлагается ввести количество выбранных единиц:&#10;&gt; Введите число&#10;&gt; 10&#10;&gt; Результат:&#10;&gt; Метры: 10&#10;&gt; Мили: 0.006&#10;&gt; Ярды: 10.94&#10;&gt; Футы: 32.81&#10;Выполненное задания нужно залить в гит и оставить ссылку в поле &quot;Ответ&quot; под за-&#10;данием к курсу. Задание автоматически уйдет на оценку преподавателю." />
+  </component>
+</project>
